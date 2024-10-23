@@ -14,3 +14,5 @@ My main challenge from this challenge was relearning to code in c++, because of 
 ## How to Use the Project
 
 ## Licenses
+
+License can be found in the "doc" folder.
